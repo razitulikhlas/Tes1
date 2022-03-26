@@ -88,4 +88,9 @@ class MenuFragment : Fragment() {
             binding.btnChooseEvent.text = event
         super.onResume()
     }
+
+    override fun onDestroyView() {
+        _binding = null
+        super.onDestroyView()
+    }
 }
