@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SuitMedia1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="name">name</string>
+    <string name="next">Next</string>
+    <string name="hello">Hello</string>
+    <string name="choose_event">Choose Event</string>
+    <string name="choose_guest">Choose Guest</string>
+</resources>
